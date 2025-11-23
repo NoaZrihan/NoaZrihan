@@ -8,4 +8,5 @@ I'm a passionate Data Analyst with experience in SQL. I love tackling complex pr
 - ⚡ Fun fact: Strength training is my favorite way to clear my mind  🧠
 
 ## Get in Touch 📬
-- **[LinkedIn]**(https://www.linkedin.com/in/noa-zrihan/)
+- **LinkedIn:** https://www.linkedin.com/in/noa-zrihan/
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
