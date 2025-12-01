@@ -8,5 +8,5 @@ Data Analyst driven by curiosity and a strong analytical mindset. Skilled in SQL
 - ⚡ Fun fact: Strength training is my favorite way to clear my mind  🧠
 
 ## Get in Touch 📬
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/noa-zrihan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/noa-zrihan/)
 
