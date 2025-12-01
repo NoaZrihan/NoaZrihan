@@ -9,6 +9,6 @@ Data Analyst driven by curiosity and a strong analytical mindset. Skilled in SQL
 
 ## Get in Touch 📬
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/noa-zrihan)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-gray?logo=linkedin&style=flat)](https://www.linkedin.com/in/noa-zrihan/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-Blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/noa-zrihan/)
 
 
