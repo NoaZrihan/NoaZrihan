@@ -1,7 +1,7 @@
 # Hi there, I'm Noa Zrihan! 👋
 ## About Me 🚀
 
-I'm a passionate Data Analyst with experience in SQL. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+Data Analyst driven by curiosity and a strong analytical mindset. Skilled in SQL and committed to transforming data into clear, actionable insights. I enjoy diving into challenging problems and continuously expanding my knowledge.
 
 - 🌱 Currently learning: Business Administration & Accounting 
 - 🔭 Working on: 
